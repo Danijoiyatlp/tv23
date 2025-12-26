@@ -45,7 +45,7 @@ const SplashScreen = ({ onComplete }: SplashScreenProps) => {
 
         {/* Developer Credit */}
         <p className="text-muted-foreground text-base md:text-lg mb-10 animate-fade-in" style={{ animationDelay: '0.2s' }}>
-          Developed by <span className="text-foreground font-bold">Wassi Khan</span>
+          Developed by <span className="text-foreground font-bold">Zaid Ashiq</span>
         </p>
 
         {/* Rainbow Loading Spinner */}
