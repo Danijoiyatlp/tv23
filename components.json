@@ -1,0 +1,37 @@
+
+
+/*
+   ✦ ✦ ✦   WASSI-KHAN   ✦ ✦ ✦
+
+─────────────────────────────────────────────────────────────
+📛 Project   : wassi-live-tv
+👤 Creator   : WASSI KHAN FROM VEHARI
+📱 Contact   : +923038264337
+🗓 Release   : 24 • DECEMBER • 2025 | 02:00 PM
+─────────────────────────────────────────────────────────────
+
+//   ⭐ PROUDLY MADE IN PAKISTAN ⭐
+*/
+
+
+
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "default",
+  "rsc": false,
+  "tsx": true,
+  "tailwind": {
+    "config": "tailwind.config.ts",
+    "css": "src/index.css",
+    "baseColor": "slate",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "aliases": {
+    "components": "@/components",
+    "utils": "@/lib/utils",
+    "ui": "@/components/ui",
+    "lib": "@/lib",
+    "hooks": "@/hooks"
+  }
+}
