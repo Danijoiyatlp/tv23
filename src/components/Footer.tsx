@@ -1,7 +1,7 @@
 import { Heart, Code, MessageCircle } from 'lucide-react';
 
 const Footer = () => {
-  const whatsappNumber = '+923038264337';
+  const whatsappNumber = '+923299931199';
   const whatsappLink = `https://wa.me/${whatsappNumber.replace('+', '')}`;
 
   return (
@@ -14,7 +14,7 @@ const Footer = () => {
               Developed with{' '}
               <Heart className="inline-block w-4 h-4 text-primary fill-primary animate-pulse" />{' '}
               by{' '}
-              <span className="font-semibold text-foreground">Wassi Khan</span>
+              <span className="font-semibold text-foreground">Zaid Ashiq</span>
             </span>
           </div>
           
@@ -36,7 +36,7 @@ const Footer = () => {
           </a>
           
           <div className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Wassi Live TV. All rights reserved.
+            © {new Date().getFullYear()} Zaid Live TV. All rights reserved.
           </div>
         </div>
       </div>
