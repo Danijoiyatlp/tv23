@@ -60,7 +60,7 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Zaid Live TV - Watch Pakistani TV Channels Live</title>
+        <title>Dani Joiya Live TV - Watch Pakistani TV Channels Live</title>
         <meta name="description" content="Watch Pakistani and international TV channels live online. Stream news, entertainment, sports, and more with Wassi Live TV." />
         <meta name="keywords" content="Pakistani TV, live TV, streaming, news channels, entertainment, HUM TV, ARY Digital, Geo News" />
       </Helmet>
